@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @labibahmed10
-- 👀 I’m interested in Web related Technologies
-- 🌱 I’m currently learning MERN Stack Web Developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1><p align="center">Hello, I'm LABIB! <a href="https://www.github.com/labibahmed10"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1></a></p>
 
 <!---
 labibahmed10/labibahmed10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

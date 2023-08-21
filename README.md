@@ -34,6 +34,22 @@
 
 </div>
 
+<div align="center">
+ 
+### ☕ Connect with me!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/labib-ahmed10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abircse004" height="30" width="40" /></a>
+<a href="https://fb.com/labib.ahmed.372" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abircse.nwu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/labibahmed10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aungstrome315" height="30" width="40" /></a>
+
+### 👁️ Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/labibahmed10/count.svg)
+
+</div>
+
+
 <!---
 labibahmed10/labibahmed10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

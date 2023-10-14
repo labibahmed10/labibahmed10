@@ -1,7 +1,7 @@
 <h1><p align="center">Hello, I'm LABIB! <a href="https://www.github.com/labibahmed10"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1></a></p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=800&repeat=false&center=true&multiline=true&width=1300&height=150$&lines=Frontend+Focused+Full+Stack+developer.Currently+working+as+a+Software+Developer;(Intern)+at+'YOUR+Campus'.Aiming+to+leverage+my+skills+to+become+a+better+Engineer.;+Proficient+in+Javascript%2C+Es6%2B%2C+React+and+modern+frameworks+and+practices.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=800&repeat=false&center=true&multiline=true&width=1310&height=150$&lines=Frontend+Focused+Full+Stack+developer.Currently+working+as+a+Software+Developer;(Intern)+at+'YOUR+Campus'.Aiming+to+leverage+my+skills+to+become+a+better+Engineer.;+Proficient+in+Javascript%2C+Es6%2B%2C+React%2C+modern+frameworks+and+practices.)](https://git.io/typing-svg)
 
 
 

@@ -24,7 +24,7 @@
   
 <p align="center" >
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labibahmed10&show_icons=true&count_private=true&layout=donut&theme=radical&hide_border=true&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866)](https://github.com/labibahmed10?tab=repositories) <img height="215" src="http://github-readme-streak-stats.herokuapp.com?user=labibahmed10&theme=tokyonight&hide_border=true&background=1F222E" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labibahmed10&show_icons=true&count_private=true&layout=donut&theme=radical&hide_border=true&bg_color=1F222E&title_color=70A5FD&icon_color=F8D866)](https://github.com/labibahmed10?tab=repositories) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=labibahmed10&theme=tokyonight&hide_border=true&background=1F222E" />
 
 </p>
   
